@@ -17,9 +17,10 @@ BurgerHut is a modern and fully responsive burger ordering website that allows u
 - 🌐 Fully responsive and modern design
 - 🎨 Clean UI using HTML, CSS, JavaScript
 
-## 📸 Screenshots
+## Video Link 
 
-> Add screenshots here by uploading images into the repo and using:
+
+https://youtu.be/R1-HPGu_MRw?si=cSqbdE-ktuLi2n5l
 
 
 ## 💡 How to Run Locally
